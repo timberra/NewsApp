@@ -4,7 +4,6 @@
 //
 //  Created by liga.griezne on 21/11/2023.
 //
-
 import UIKit
 
 @main
@@ -33,4 +32,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
